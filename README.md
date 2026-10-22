@@ -9,7 +9,6 @@
 **Matrícula:** 3067821  
 **Campus:** Guadalupe  
 **Materia:** Proyecto integrador de tecnologías de Big Data
-
 **Docente:** Jonathan Alexis Puente Guerrero  
 
 ## 1. Descripción del proyecto

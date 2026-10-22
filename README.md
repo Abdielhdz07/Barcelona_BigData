@@ -8,7 +8,7 @@
 **Alumno:** Abdiel Abraham Hernández Rodríguez  
 **Matrícula:** 3067821  
 **Campus:** Guadalupe  
-**Materia:** Programación de Big Data  
+**Materia:** Proyecto integrador de tecnologías de Big Data
 **Docente:** Jonathan Alexis Puente Guerrero  
 
 ## 1. Descripción del proyecto
